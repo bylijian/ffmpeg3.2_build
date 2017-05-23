@@ -1,6 +1,8 @@
 # ffmpeg3.2_build
+
 resource for building ffmpeg3.2 on android
 注意：由于NDK太大，所以这个仓库里面只有一个空文件目录，需要自己下载NDK放进去。
+
 #前提：
 如果你使用的是Windows 系统，需要用到Linux环境，以往一般需要安装虚拟机或者一些  Cygwin 等软件，会麻烦一点。
 微软在Windows 10 引入了一个Linux子系统，我们可以直接在Windows 10 下开启这个子系统，它的运行效率比较高，并且使用的文件目录是和Windows 的当前用户目录是共享的，可以非常方便的进行两个系统之间文件的复制，共享。
