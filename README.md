@@ -1,5 +1,6 @@
 # ffmpeg3.2_build
 resource for building ffmpeg3.2 on android
+注意：由于NDK太大，所以这个仓库里面只有一个空文件目录，需要自己下载NDK放进去。
 #前提：
 如果你使用的是Windows 系统，需要用到Linux环境，以往一般需要安装虚拟机或者一些  Cygwin 等软件，会麻烦一点。
 微软在Windows 10 引入了一个Linux子系统，我们可以直接在Windows 10 下开启这个子系统，它的运行效率比较高，并且使用的文件目录是和Windows 的当前用户目录是共享的，可以非常方便的进行两个系统之间文件的复制，共享。
@@ -88,6 +89,7 @@ https://github.com/huweijian5/MediaApp
 #总结：
 这篇文章非常简陋，因为其实步骤什么的基本和Ubuntu下编译是一样的，只是提供了一个新的思路，使用Windows 10 的linux子系统其实非常简单就可以编译FFmpeg，我把遇到的一些坑记录下来，大家看到的话绕过即可。
 
+PS：Demo的Github仓库：https://github.com/bylijian/ffmpeg3.2_build/
 
 
 
